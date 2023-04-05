@@ -1,7 +1,6 @@
 # Frontend Mentor - Suite landing page solution
 
-This is a solution to the Suite landing page challenge on Frontend Mentor(https://www.frontendmentor.io/challenges/suite-landing-page-tj_eaU-Ra). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
+This is a solution to the Suite landing page challenge on Frontend Mentor(https://www.frontendmentor.io/challenges/suite-landing-page-tj_eaU-Ra). 
 ## Table of contents
 
 - [Overview](#overview)
@@ -41,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/MariamJel/Suite-Landing-Page
+- Live Site URL: https://mariamjel.github.io/Suite-Landing-Page/
 
 ## My process
 
@@ -59,29 +58,18 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-This project helped me better my css skills. I had to face challenges of overlaping content as the code progressed from mobile  to first tablet and then destkop versions. During many trials and errors, I got more comfortable with using grid and absolutely positioning items.
+This project helped me better my css skills. I had to face challenges of overlaping content as the code progressed from mobile  to first tablet and then destkop versions. During many trials and errors, I got more comfortable with using grid and also absolutely positioning items.
 I got new insights on how to make websites responsive, which I am going to implement in my work from now on.
 
 
 
 
-### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github - [@MariamJel](https://github.com/MariamJel)
+
 
 
 
